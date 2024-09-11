@@ -2,8 +2,9 @@
 .glava3_23 {
   color: aquamarine;
 }
-/* задача 25 */
+/* задача 25,30 */
 p {
+  text-align: right;
   color: red;
 }
 /* задача 26 */
@@ -25,6 +26,6 @@ td {
   width: 400px;
   height: 300px;
 }
-p {
+p{
   width: 300px;
 }
