@@ -18,5 +18,13 @@ h3 {
 }
 /* задача 27 */
 i {
-color: #4577D4;
+  color: #4577d4;
+}
+/* задача 28 */
+td {
+  width: 400px;
+  height: 300px;
+}
+p {
+  width: 300px;
 }
