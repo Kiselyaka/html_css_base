@@ -87,7 +87,15 @@ h2{
 }
 .glava39{
     p{
+    text-align: justify;
     font-size: 30px;
-	line-height: 15px;
+	line-height: 45px;
+    }
+    /* 45-30=15 - видимый белый промежуток */
+}
+.glava40{
+    p{
+        font-size: 30px;
+        line-height: 1.5;
     }
 }
