@@ -1,57 +1,87 @@
 /* задача 41 #1*/
 .task1_41 {
-    font: 13px/20px "Times New Roman";
+  font: 13px/20px "Times New Roman";
 }
 /* задача 41 #2*/
-.task2_41{
-   font:bold 40px Arial;
-   width: 300px;
-   color: red;
+.task2_41 {
+  font: bold 40px Arial;
+  width: 300px;
+  color: red;
 }
 /* задача 41 #3 */
-.task3_41{
-    text-indent: 50px;
-    font:bold italic 40px/60px Arial; 
+.task3_41 {
+  text-indent: 50px;
+  font: bold italic 40px/60px Arial;
 }
 /* задача 42 */
-.glava42{
-    p {
-        text-indent: 50px;
-        text-align: justify;
-        width: 400px;
-    }
+.glava42 {
+  p {
+    text-indent: 50px;
+    text-align: justify;
+    width: 400px;
+  }
 }
 /* задача 44 */
-.glava44{
-    p{
-        font-size: 18px;
-        font-family: Arial;
-        text-decoration: underline;
-    }
+.glava44 {
+  p {
+    font-size: 18px;
+    font-family: Arial;
+    text-decoration: underline;
+  }
 }
 /* задача 45 */
-.glava45{
-    p{
-        color: red;
-        font-size: 20px;
-        text-decoration: overline;
-    }
+.glava45 {
+  p {
+    color: red;
+    font-size: 20px;
+    text-decoration: overline;
+  }
 }
 /* задача 46 */
-.glava46{
-    p {
-        color: green;
-        font-size: 18px;
-        text-decoration: line-through;
-    }
+.glava46 {
+  p {
+    color: green;
+    font-size: 18px;
+    text-decoration: line-through;
+  }
 }
 /* задача 47 */
-.glava47{
-    p{
-        font-size: 18px;
-    }
-    a {
-        color: red;
-        text-decoration: none;
-    }
+.glava47 {
+  p {
+    font-size: 18px;
+  }
+  a {
+    color: red;
+    text-decoration: none;
+  }
+}
+/* задача 48 */
+.glava48 {
+  h1 {
+    width: 500px;
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+  }
+  h2 {
+    width: 500px;
+    text-align: center;
+    color: green;
+    font-weight: normal;
+    font-size: 30px;
+  }
+  p {
+    width: 500px;
+    text-align: justify;
+    font-size: 16px;
+    line-height: 25px;
+    font-family: Arial;
+    text-indent: 40px;
+  }
+  ul {
+    width: 400px;
+    text-align: justify;
+    font-size: 16px;
+    line-height: 20px;
+  }
 }
