@@ -1,0 +1,13 @@
+/* задача 41 */
+.task1_41 {
+    font: 13px/20px "Times New Roman";
+}
+.task2_41{
+   font:bold 40px Arial;
+   width: 300px;
+   color: red;
+}
+.task3_41{
+    text-indent: 50px;
+    font:bold italic 40px/60px Arial; 
+}
