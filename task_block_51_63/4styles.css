@@ -48,9 +48,12 @@
     }
 }
 /* глава 55 №1-3 */
-.glava55 .odd{
+.glava55_1 .odd{
     color: red;
 }
-.glava55 .eve{
+.glava55_1 .eve{
     color: green;
+}
+.glava55_2 .eee{
+    color: red;
 }
