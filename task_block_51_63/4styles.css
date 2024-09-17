@@ -1,5 +1,43 @@
+/* задача 51 */
 .glava51{
     h1, h2, h3{
         text-align: center;
+    }
+}
+/* задача 52 №1-2 */
+.glava52_1{
+    h1, h2, h3 {
+        text-align: center;
+    }
+    h2 {
+        color: blue;
+    }
+    h3 {
+        font-size: 16px;
+        color: red;
+    }
+}
+.glava52_2{
+    h1, h2, h3 {
+        text-align: center;
+        color: red;
+    }
+    h3 {
+        font-size: 16px;
+    }
+}
+/* задача 53 №1-2 */
+.glava53_1{
+    ul i{
+        color: red;
+    }
+    p i{
+        color: green;
+    }
+}
+.glava53_2
+{
+    p b i{
+        color: red;
     }
 }
