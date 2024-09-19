@@ -13,6 +13,28 @@
     color: red;
 	font-family: Arial;
 }
-.text{
+.glava65 .text{
     font-size: 30px;
+}
+/* глава 66 №1 */
+#block .header {
+	color: pink;
+}
+#block h2.header {
+	color: yellow;
+}
+#elem h2{
+    color: blueviolet;
+}
+/* глава 66 №2 */
+.glava66_2 #elem .new_text{
+    color: peru;
+}
+/* глава 66 №3 */
+.glava66_3 #elem p.new_text{
+    color: rgb(106, 210, 148);
+}
+/* глава 66 №4 */
+.glava66_4 #elem li.new_text{
+    color: chartreuse;
 }
