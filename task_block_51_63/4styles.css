@@ -112,3 +112,31 @@
     font-size: 30px;
 }
 /* глава 60 */
+.glava60 .eee3 i{
+    color: red;
+}
+/* глава 61 №1-6 */
+.glava61 .eee1 .bbb1 {
+    color: red; /* Красный цвет для элементов с классом bbb внутри eee */
+}
+
+.glava61 .eee1 h2 {
+    color: red; /* Красный цвет для h2 внутри eee */
+}
+
+.glava61 .eee1 h2.bbb1 {
+    color: red; /* Красный цвет для h2 с классом bbb внутри eee */
+}
+
+.glava61 .eee1 h3.bbb1 {
+    color: red; /* Красный цвет для h3 с классом bbb внутри eee */
+}
+
+.glava61 .eee1 p.bbb1 {
+    color: red; /* Красный цвет для p с классом bbb внутри eee */
+}
+
+.glava61 .eee1 .bbb1 .kkk1 {
+    color: red; /* Красный цвет для элементов с классом kkk внутри bbb внутри eee */
+}
+/* глава 61 */
