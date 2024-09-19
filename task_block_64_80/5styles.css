@@ -1,45 +1,80 @@
 /* глава 64 */
-#elem1{
-    color: red;
+#elem1 {
+  color: red;
 }
-#elem2{
-    color: green;
+
+#elem2 {
+  color: green;
 }
-#elem3{
-    color: aqua;
+
+#elem3 {
+  color: aqua;
 }
+
 /* глава 65 */
-#block{
-    color: red;
-	font-family: Arial;
+#block {
+  color: red;
+  font-family: Arial;
 }
-.glava65 .text{
-    font-size: 30px;
+
+.glava65 .text {
+  font-size: 30px;
 }
+
 /* глава 66 №1 */
 #block .header {
-	color: pink;
+  color: pink;
 }
+
 #block h2.header {
-	color: yellow;
+  color: yellow;
 }
-#elem h2{
-    color: blueviolet;
+
+#elem h2 {
+  color: blueviolet;
 }
+
 /* глава 66 №2 */
-.glava66_2 #elem .new_text{
-    color: peru;
+.glava66_2 #elem .new_text {
+  color: peru;
 }
+
 /* глава 66 №3 */
-.glava66_3 #elem p.new_text{
-    color: rgb(106, 210, 148);
+.glava66_3 #elem p.new_text {
+  color: rgb(106, 210, 148);
 }
+
 /* глава 66 №4 */
-.glava66_4 #elem li.new_text{
-    color: chartreuse;
+.glava66_4 #elem li.new_text {
+  color: chartreuse;
 }
+
 /* глава 67 */
-.eee.zzz.ccc{
-    color: coral;
+.eee.zzz.ccc {
+  color: coral;
 }
-/* глава 68 */
+
+/* глава 68 №1 */
+.glava68 .bbb.zzz {
+  color: red;
+}
+
+/* глава 68 №2 */
+.glava68 h2.bbb.zzz {
+  color: red;
+}
+
+/* глава 68 №3 */
+.glava68 #elem.bbb {
+  color: red;
+}
+
+/* глава 68 №4 */
+.glava68 #elem.bbb.zzz {
+  color: red;
+}
+
+/* глава 68 №5 */
+.glava68 h2#elem.bbb {
+  color: red;
+}
