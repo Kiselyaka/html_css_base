@@ -77,13 +77,28 @@
 .glava57_2 .glava57_2_green{
     color: green    ;
 }
-/*  */
+/* глава 58 №1*/
 .glava58_1 .eee, .zzz{
-    font: 1.5 Arial;
+    line-height: 1.5;
+    font-family: Arial;
 }
 .glava58_1 .eee{
     font-size: 20px;
 }
 .glava58_1 .zzz{
     font-size: 30px;
+}
+/* глава 58 №2 */
+.glava58_2 .zzz2, .ggg2, .eee2{
+    text-align: center;
+    font-family: Arial;
+}
+.glava58_2 .eee2{
+    font-size: 20px;
+}
+.glava58_2 .zzz2{
+    font-size: 30px;
+}
+.glava58_2 .ggg2{
+	font-size: 35px;
 }
