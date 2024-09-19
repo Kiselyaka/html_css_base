@@ -139,4 +139,26 @@
 .glava61 .eee1 .bbb1 .kkk1 {
     color: red; /* Красный цвет для элементов с классом kkk внутри bbb внутри eee */
 }
-/* глава 61 */
+/* глава 62 */
+.success {
+	color: green;
+}
+.error {
+	color: red;
+}
+.large {
+	font-size: 30px;
+}
+.small {
+	font-size: 20px;
+}
+.karas{
+    color: blue;
+}
+.igra{
+    font: 30px Arial;
+    font-style: italic;
+}
+.nachalas{
+    text-align: center;
+}
