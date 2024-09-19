@@ -78,3 +78,58 @@
 .glava68 h2#elem.bbb {
   color: red;
 }
+/* глава 69 №1-9 */
+.glava69 h2.zzz {
+	color: red;
+}
+
+h2 .zzz {
+	color: red;
+}
+
+.bbb.zzz {
+	color: red;
+}
+
+.bbb .zzz {
+	color: red;
+}
+
+.bbb.zzz.xxx {
+	color: red;
+}
+
+.bbb .zzz.xxx {
+	color: red;
+}
+
+.bbb.zzz .xxx {
+	color: red;
+}
+
+.bbb .zzz .xxx {
+	color: red;
+}
+
+#elem.bbb {
+	color: red;
+}
+
+#elem .bbb {
+	color: red;
+}
+/* глава 70 №1 */
+.glava70_1 #block_1 h1, #block_1 h2{
+    text-align: center;
+}
+
+/* глава 70 №1 */
+.glava70_2 #block_2 h1, #block_2 h2{
+    text-align: center;
+}
+.glava70_2 #block_2 h1{
+    font-size: 30px;
+}
+.glava70_2 #block_2 h2{
+    font-size: 20px;
+}
