@@ -228,3 +228,7 @@ h2 .zzz {
 .glava77_2 .elem + li{
   color: red;
 }
+/* глава 78 */
+.glava78 #elem ~ li{
+  color: red;
+}
