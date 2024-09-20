@@ -211,3 +211,13 @@ h2 .zzz {
   font-size: 30px;
 }
 /* вторая запись переопределит первую и размер станет 30px */
+/* глава 74 */
+.glava74 h2 {
+	font-size: 20px;
+	color: blue;
+}
+.glava74 h2 {
+	font-style: italic;
+	color: red;
+}
+/* размер 20,курсив,красный цвет */
