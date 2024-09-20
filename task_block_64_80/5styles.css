@@ -12,7 +12,7 @@
 }
 
 /* глава 65 */
-#block {
+.glava65 #block {
   color: red;
   font-family: Arial;
 }
@@ -22,15 +22,15 @@
 }
 
 /* глава 66 №1 */
-#block .header {
+.glava66_1 #block .header {
   color: pink;
 }
 
-#block h2.header {
+.glava66_1 #block h2.header {
   color: yellow;
 }
 
-#elem h2 {
+.glava66_1 #elem h2 {
   color: blueviolet;
 }
 
@@ -170,3 +170,37 @@ h2 .zzz {
 .glava71_4 .xxx {
   text-align: center;
 }
+/* глава 72 №1-10 */
+.glava72_1 div p {
+  color: cadetblue;
+}
+.glava72_2 div h2 {
+  text-align: center;
+}
+.glava72_3 #block p {
+  text-align:right;
+  color: rgb(96, 57, 210);
+}
+.glava72_4 #block h2 {
+  text-decoration: underline;
+}
+.glava72_5 .bbb {
+  text-align: center;
+  font-family: Arial;
+}
+.glava72_6 #block .bbb {
+  font-size: 40px;
+}
+.glava72_7 p.bbb {
+  color: red;
+}
+.glava72_8 h2.bbb {
+  color: fuchsia;
+}
+.glava72_9 #block p.bbb {
+  color: teal;
+}
+.glava72_10 .bbb, .xxx {
+  color: olive;
+}
+/* глава 73 */
