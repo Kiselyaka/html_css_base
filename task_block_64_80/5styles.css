@@ -221,3 +221,10 @@ h2 .zzz {
 	color: red;
 }
 /* размер 20,курсив,красный цвет */
+/* глава 77 №1-2 */
+.glava77_1 #elem + li{
+  color: red;
+}
+.glava77_2 .elem + li{
+  color: red;
+}
