@@ -80,56 +80,93 @@
 }
 /* глава 69 №1-9 */
 .glava69 h2.zzz {
-	color: red;
+  color: red;
 }
 
 h2 .zzz {
-	color: red;
+  color: red;
 }
 
 .bbb.zzz {
-	color: red;
+  color: red;
 }
 
 .bbb .zzz {
-	color: red;
+  color: red;
 }
 
 .bbb.zzz.xxx {
-	color: red;
+  color: red;
 }
 
 .bbb .zzz.xxx {
-	color: red;
+  color: red;
 }
 
 .bbb.zzz .xxx {
-	color: red;
+  color: red;
 }
 
 .bbb .zzz .xxx {
-	color: red;
+  color: red;
 }
 
 #elem.bbb {
-	color: red;
+  color: red;
 }
 
 #elem .bbb {
-	color: red;
+  color: red;
 }
 /* глава 70 №1 */
-.glava70_1 #block_1 h1, #block_1 h2{
-    text-align: center;
+.glava70_1 #block_1 h1,
+#block_1 h2 {
+  text-align: center;
 }
 
 /* глава 70 №1 */
-.glava70_2 #block_2 h1, #block_2 h2{
-    text-align: center;
+.glava70_2 #block_2 h1,
+#block_2 h2 {
+  text-align: center;
 }
-.glava70_2 #block_2 h1{
-    font-size: 30px;
+.glava70_2 #block_2 h1 {
+  font-size: 30px;
 }
-.glava70_2 #block_2 h2{
-    font-size: 20px;
+.glava70_2 #block_2 h2 {
+  font-size: 20px;
+}
+/* глава 71 №1-4 */
+.glava70_1 #block h1,
+.glava71_1 #block h2,
+.glava71_1 #block h3 {
+  text-align: center;
+}
+.glava70_1 #block h2 {
+  color: blue;
+}
+.glava70_1 #block h3 {
+  font-size: 16px;
+  color: red;
+}
+/* #2 */
+.glava71_2 #block h1.eee,
+.glava71_2 #block h2.zzz {
+  text-align: center;
+}
+.glava71_2 #block h2.zzz {
+  font-size: 20px;
+}
+.glava71_2 #block h1.eee {
+  font-size: 30px;
+}
+/* #3 */
+.glava71_3 .xxx .kkk,
+.glava71_3 h2.zzz,
+.glava71_3 #eee h2 {
+  text-align: center;
+}
+/* #4 */
+.glava71_4 .eee h2.zzz,
+.glava71_4 .xxx {
+  text-align: center;
 }
