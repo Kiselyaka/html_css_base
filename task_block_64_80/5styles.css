@@ -236,3 +236,25 @@ h2 .zzz {
 .glava79 main * p{
   color: red;
 }
+/* глава 80 №1-7 */
+.glava80_1 *[title] {
+  color: red;
+}
+.glava80_2 p[title] {
+  color: red;
+}
+.glava80_3 p[title="hello"] {
+  color: greenyellow;
+}
+.glava80_4 a[href^="http://"] {
+  color: yellow;
+}
+.glava80_5 a[href$=".html"] {
+  color: yellowgreen;
+}
+.glava80_6 p[title*="hello"] {
+  color: aqua;
+}
+.glava80_7 p[class^="top-"] {
+  color: fuchsia;
+}
