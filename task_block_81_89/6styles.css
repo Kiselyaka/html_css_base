@@ -21,3 +21,35 @@
     color: red;
     text-decoration: underline;
 }
+/* глава 85 */
+.glava85 #test_85 a {
+	color: red;
+}
+.glava85 #test_85 a:hover {
+	text-decoration: none;
+}
+/* для всех состояний ссылок - цвет красный,для состояния hover - ссылка без подчеркивания */
+/* глава 86 №1 */
+.glava86_1 a.zzz86 {
+	color: red;
+}
+.glava86_1 a.zzz86:hover {
+	text-decoration: none;
+}
+ /* для всех состояний ссылок c классом zzz86 - цвет красный,для состояния hover - ссылка без подчеркивания */ 
+/* глава 86 №2 */
+.glava86_2 #block86 a.zzz86_2{
+	color: red;
+}
+.glava86_2 #block86 a.zzz86_2:hover {
+	text-decoration: none;
+}
+/* для всех состояний ссылок c классом zzz86 которые находятся в контейнере с id block86 - цвет красный,для состояния hover - ссылка без подчеркивания */
+/* глава 86 №3 */
+.glava86_3 .block86_3 a.zzz86_3 {
+	color: red;
+}
+.glava86_3 .block86_3 a.zzz86_3:hover {
+	text-decoration: none;
+}
+/* для всех состояний ссылок c классом zzz86 которые находятся в контейнере с классом block86_3 - цвет красный,для состояния hover - ссылка без подчеркивания */
