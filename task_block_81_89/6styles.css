@@ -1,0 +1,23 @@
+/* глава 81 */
+.glava81 :link {
+	color: aqua;
+}
+.glava81 :visited {
+	color: green;
+}
+.glava81 :hover {
+	text-decoration: none;
+    color: red;
+}
+.glava81 :active {
+	color: black;
+}
+/* глава 84 */
+.glava84 a {
+	color: aqua;
+    text-decoration: none;
+}
+.glava84 a:hover{
+    color: red;
+    text-decoration: underline;
+}
