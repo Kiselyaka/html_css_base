@@ -96,3 +96,12 @@
 .glava88_3 h2:only-of-type {
 	color: red;
 }
+.glava89_1 li:not(.elem) {
+	color: red;
+}
+.glava89_2 li:not(:first-child){
+	color: red;
+}
+.glava89_3 li:not(:first-child, :last-child){
+	color: red;
+}
