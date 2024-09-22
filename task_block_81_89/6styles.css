@@ -53,3 +53,31 @@
 	text-decoration: none;
 }
 /* для всех состояний ссылок c классом zzz86 которые находятся в контейнере с классом block86_3 - цвет красный,для состояния hover - ссылка без подчеркивания */
+/* глава 87 */
+.glava87_1 li:first-child {
+	color: red;
+}
+.glava87_2 li:last-child {
+	color: green;
+}
+.glava87_3 li:nth-child(even) {
+    color: green;
+}
+.glava87_3 li:nth-child(odd) {
+	color: red;
+}
+.glava87_4 li:nth-last-child(odd) {
+	color: red;
+}
+.glava87_5 li:only-child {
+	color: red;
+}
+.glava87_5 ul {
+	margin-bottom: 10px;
+}
+.glava87_6 li:empty {
+	border: 1px solid blue;
+	list-style-type: circle;
+	color: blue;
+	width: 100px;
+}
