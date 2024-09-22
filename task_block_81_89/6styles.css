@@ -81,3 +81,18 @@
 	color: blue;
 	width: 100px;
 }
+/* глава 88 */
+.glava88 p:first-of-type {
+	color: red;
+}
+.glava88 h2:last-of-type {
+	color: red;
+}
+.glava88_3 div {
+	border: 1px dashed black;
+	padding: 15px;
+	margin-bottom: 10px;
+}
+.glava88_3 h2:only-of-type {
+	color: red;
+}
