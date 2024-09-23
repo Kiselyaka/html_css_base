@@ -35,4 +35,12 @@
     border-style: dashed;
     border-color: orange;
 }
-/* глава 95 */
+/* глава 96 */
+.glava96_1 #elem {
+    width: 300px;
+    height: 200px;
+    border-width: 10px;
+    border-style: double;
+    border-color: blue;
+}
+/* глава 97 */
