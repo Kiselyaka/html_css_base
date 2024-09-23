@@ -158,3 +158,36 @@
 	height: 300px;
 	border: 1px solid black;
 }
+/* глава 110 */
+.glava110_1 #elem {
+	background-position: bottom right;
+	background-image: url("bg.png");
+	background-repeat: no-repeat;
+	width: 400px;
+	height: 300px;
+	border: 1px solid black;
+}
+.glava110_2 #elem {
+	background-size: auto;
+	background-repeat: no-repeat;
+	background-image: url("bg.png");
+	border: 1px solid black;
+	width: 400px;
+	height: 400px;
+}
+.glava110_4 #elem {
+	background-color: orange;
+	background-clip: border-box;
+	border: 10px dashed black;
+	padding: 30px;
+	width: 250px;
+	height: 150px;
+}
+.glava110_5 #elem {
+	background-repeat: repeat;
+	background-image: url("bg.png");
+	border: 10px dashed black;
+	padding: 30px;
+	width: 350px;
+	height: 300px;
+}
