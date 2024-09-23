@@ -119,6 +119,7 @@
     height: 200px;
     border: 1px solid green;
     border-radius: 10px 30px;
+    text-align: center;
 }
 /* глава 105 */
 /* Если задано три значения, то первое значение задает скругление для верхнего левого угла, второе - одновременно для верхнего правого и нижнего левого, а третье - для нижнего правого угла: */
@@ -127,4 +128,17 @@
     height: 200px;
     border: 1px solid green;
     border-radius: 10px 30px 20px;
+}
+/* глава 107 */
+.glava107_1 #elem {
+    width: 100px;
+    height: 100px;
+    border: 1px solid green;
+    border-radius: 100px;
+}
+.glava108_1 #elem {
+	background-image: url("bg.png");
+	width: 400px;
+	height: 300px;
+	border: 3px solid black;
 }
