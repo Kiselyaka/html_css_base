@@ -44,3 +44,23 @@
     border-color: blue;
 }
 /* глава 97 */
+.glava97_1 #elem {
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+}
+.glava97_2 #elem {
+    width: 300px;
+    height: 200px;
+    border: 2px dotted blue;
+}
+.glava97_3 #elem {
+    width: 300px;
+    height: 200px;
+    border: 3px dashed green;
+}
+.glava97_4 #elem {
+    width: 300px;
+    height: 200px;
+    border: 5px double orange;
+}
