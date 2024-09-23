@@ -97,9 +97,34 @@
     border-radius: 30px;
     text-align: center;
 }
+/* глава 101 */
 .glava101_1 #elem {
     width: 200px;
     height: 200px;
     border: 1px solid green;
     border-radius: 100px;
+}
+/* глава 103 */
+.glava103_1 #elem {
+    width: 200px;
+    height: 200px;
+    border: 1px solid green;
+    border-radius: 10px 30px 50px 70px;
+}
+/* 4 значения по часовой */
+/* глава 104 */
+/* Если задано два значения, то первое значение задает скругление для для верхнего левого и нижнего правого, второе - верхнего правого и нижнего левого углов */
+.glava104_1 #elem {
+    width: 200px;
+    height: 200px;
+    border: 1px solid green;
+    border-radius: 10px 30px;
+}
+/* глава 105 */
+/* Если задано три значения, то первое значение задает скругление для верхнего левого угла, второе - одновременно для верхнего правого и нижнего левого, а третье - для нижнего правого угла: */
+.glava105_1 #elem {
+    width: 200px;
+    height: 200px;
+    border: 1px solid green;
+    border-radius: 10px 30px 20px;
 }
