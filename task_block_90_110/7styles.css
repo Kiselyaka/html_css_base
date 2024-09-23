@@ -97,3 +97,9 @@
     border-radius: 30px;
     text-align: center;
 }
+.glava101_1 #elem {
+    width: 200px;
+    height: 200px;
+    border: 1px solid green;
+    border-radius: 100px;
+}
