@@ -10,12 +10,19 @@
 .glava114 ul {
 	list-style-type: disc;
 }
+/* глава 115 */
 .glava115 ul {
 	list-style-type: none;
 } 
+/* глава 119 */
 .glava119 ol {
 	list-style-type: lower-alpha;
 }
+/* глава 120 */
 .glava120 ol {
 	list-style-type: upper-alpha;
+}
+/* глава 121 */
+.glava121 ol {
+	list-style-type: lower-greek;
 }
