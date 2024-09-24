@@ -26,3 +26,7 @@
 .glava121 ol {
 	list-style-type: lower-greek;
 }
+/* глава 122 */
+.glava122 ol {
+	list-style-type: decimal-leading-zero;
+}
