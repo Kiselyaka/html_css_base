@@ -1,172 +1,183 @@
 /* глава 123 */
 .glava123_1 #parent {
-    width: 400px;
-    border: 1px dashed blue;
+  width: 400px;
+  border: 1px dashed blue;
 }
 .glava123_1 #child {
-    margin: 50px;
-    height: 300px;
-    border: 1px solid orange;
+  margin: 50px;
+  height: 300px;
+  border: 1px solid orange;
 }
 .glava123_2 #elem1 {
-    width: 400px;
-    border: 1px dashed blue;
+  width: 400px;
+  border: 1px dashed blue;
 }
 .glava123_2 #elem2 {
-    margin: 25px;
-    border: 1px dashed green;
+  margin: 25px;
+  border: 1px dashed green;
 }
 .glava123_2 #elem3 {
-    height: 200px;
-    margin: 25px;
-    border: 1px solid red;
+  height: 200px;
+  margin: 25px;
+  border: 1px solid red;
 }
 /* глава 124 */
 .glava124_1 #child {
-    margin-top: 50px;
-    margin-right: 50px;
-    margin-bottom: 100px;
-    margin-left: 50px;
-    height: 100px;
-    border: 1px solid green;
+  margin-top: 50px;
+  margin-right: 50px;
+  margin-bottom: 100px;
+  margin-left: 50px;
+  height: 100px;
+  border: 1px solid green;
 }
 .glava124_1 #parent {
-    width: 200px;
-    border: 1px solid red;
+  width: 200px;
+  border: 1px solid red;
 }
 .glava124_2 #parent {
-    width: 200px;
-    border: 1px solid red;
+  width: 200px;
+  border: 1px solid red;
 }
 .glava124_2 #child {
-    margin-top: 50px;
-    margin-right: 25px;
-    margin-bottom: 50px;
-    margin-left: 25px;
-    height: 100px;
-    border: 1px solid green;
+  margin-top: 50px;
+  margin-right: 25px;
+  margin-bottom: 50px;
+  margin-left: 25px;
+  height: 100px;
+  border: 1px solid green;
 }
 .glava124_3 #parent {
-    width: 200px;
-    border: 1px solid red;
+  width: 200px;
+  border: 1px solid red;
 }
 .glava124_3 #child {
-    margin-top: 20px;
-    margin-right: 70px;
-    margin-bottom: 20px;
-    margin-left: 70px;
-    height: 100px;
-    border: 1px solid green;
+  margin-top: 20px;
+  margin-right: 70px;
+  margin-bottom: 20px;
+  margin-left: 70px;
+  height: 100px;
+  border: 1px solid green;
 }
 /* глава 126 */
 .glava126 #parent {
-    width: 200px;
-    border: 1px solid orange;
+  width: 200px;
+  border: 1px solid orange;
 }
 .glava126 #child {
-    margin: 25px 50px 100px 10px;
-    height: 50px;
-    border: 1px dashed blue;
+  margin: 25px 50px 100px 10px;
+  height: 50px;
+  border: 1px dashed blue;
 }
 /* глава 127 */
 .glava127_1 #parent {
-    width: 200px;
-    border: 1px solid orange;
+  width: 200px;
+  border: 1px solid orange;
 }
 .glava127_1 #child {
-    margin: 100px 50px;
-    height: 50px;
-    border: 1px dashed blue;
+  margin: 100px 50px;
+  height: 50px;
+  border: 1px dashed blue;
 }
 .glava127_2 #parent {
-    width: 200px;
-    border: 1px solid orange;
+  width: 200px;
+  border: 1px solid orange;
 }
 .glava127_2 #child {
-    margin: 25px 50px;
-    height: 50px;
-    border: 1px dashed blue;
+  margin: 25px 50px;
+  height: 50px;
+  border: 1px dashed blue;
 }
 /* глава 128 */
 .glava128_1 #parent {
-    width: 200px;
-    border: 1px solid orange;
+  width: 200px;
+  border: 1px solid orange;
 }
 .glava128_1 #child {
-    margin: 100px 50px 30px;
-    height: 50px;
-    border: 1px dashed blue;
+  margin: 100px 50px 30px;
+  height: 50px;
+  border: 1px dashed blue;
 }
 .glava128_2 #parent {
-    width: 400px;
-    border: 1px solid orange;
+  width: 400px;
+  border: 1px solid orange;
 }
 .glava128_2 #child {
-    margin: 30px 100px 50px;
-    height: 50px;
-    border: 1px dashed blue;
+  margin: 30px 100px 50px;
+  height: 50px;
+  border: 1px dashed blue;
 }
 /* глава 129 */
 .glava129_1 #elem {
-    padding: 50px;
-    width: 200px;
-    border: 1px solid red;
-    text-align: justify;
+  padding: 50px;
+  width: 200px;
+  border: 1px solid red;
+  text-align: justify;
 }
 .glava129_2 #elem1 {
-    width: 500px;
-    padding: 20px;
-    margin-bottom: 30px;
-    border: 1px solid green;
-    text-align: justify;
+  width: 500px;
+  padding: 20px;
+  margin-bottom: 30px;
+  border: 1px solid green;
+  text-align: justify;
 }
 .glava129_2 #elem2 {
-    width: 300px;
-    padding: 10px;
-    margin-left: 50px;
-    border: 1px solid red;
-    text-align: justify;
+  width: 300px;
+  padding: 10px;
+  margin-left: 50px;
+  border: 1px solid red;
+  text-align: justify;
 }
 /* глава 130 */
 .glava130 #elem {
-    padding-top: 50px;
-    padding-right: 30px;
-    padding-bottom: 100px;
-    padding-left: 30px;
-    width: 200px;
-    border: 1px solid red;
-    text-align: justify;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 100px;
+  padding-left: 30px;
+  width: 200px;
+  border: 1px solid red;
+  text-align: justify;
 }
 /* глава 131 */
 .glava131_1 #elem {
-    width: 300px;
-    border: 1px solid red;
-    text-align: justify;
-    padding: 10px 20px 30px 40px;
+  width: 300px;
+  border: 1px solid red;
+  text-align: justify;
+  padding: 10px 20px 30px 40px;
 }
 .glava131_2 #elem {
-    width: 300px;
-    border: 1px solid red;
-    text-align: justify;
-    padding: 60px 30px;
+  width: 300px;
+  border: 1px solid red;
+  text-align: justify;
+  padding: 60px 30px;
 }
 .glava131_3 #elem {
-    width: 300px;
-    border: 1px solid red;
-    text-align: justify;
-    padding: 10px 20px 40px;
+  width: 300px;
+  border: 1px solid red;
+  text-align: justify;
+  padding: 10px 20px 40px;
 }
+/* глава 135 */
 .glava135 #elem1 {
-	width: 100px;
-	height: 100px;
-	background: #f1f1f1;
-	margin-bottom: 20px;
+  width: 100px;
+  height: 100px;
+  background: #f1f1f1;
+  margin-bottom: 20px;
 }
 .glava135 #elem2 {
-	width: 100px;
+  width: 100px;
+  height: 100px;
+  background: #f1f1f1;
+  padding: 25px; /* задаем отступы */
+  border: 10px solid green; /* задаем границу */
+  box-sizing: border-box; /* убираем расширение */
+}
+/* глава 137 */
+.glava137 div {
+  width: 100px;
+  height: 100px;
+  border: 1px solid red;
+}
+.glava138 div {
 	height: 100px;
-	background: #f1f1f1;
-	padding: 25px; /* задаем отступы */
-	border: 10px solid green;  /* задаем границу */
-	box-sizing: border-box;  /* убираем расширение */
+	border: 1px solid red;
 }
