@@ -177,7 +177,20 @@
   height: 100px;
   border: 1px solid red;
 }
+/* глава 138 */
 .glava138 div {
 	height: 100px;
 	border: 1px solid red;
+}
+/* глава 139 */
+.glava139 div {
+    width: 130px;
+	border: 1px solid red;
+}
+/* глава 141 */
+.glava141 div{
+    width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+	border: 1px solid green;
 }
