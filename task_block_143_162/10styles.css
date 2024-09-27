@@ -48,3 +48,18 @@
 	border: 1px solid red;
     text-align: center;
 }
+/* глава 159 */
+.glava159_1 .parent {
+	padding: 10px 0;
+	border: 1px solid red;
+    text-align: right;
+}
+.glava159_2 .parent {
+    text-align: right;
+    padding: 10px 0;
+    padding-right: 30px;
+    border: 1px solid red;
+}
+.glava159_2 .child {
+	border: 1px solid green;
+}
