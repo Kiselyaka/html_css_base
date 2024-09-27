@@ -12,3 +12,10 @@
 	border: 3px solid red;
 	margin-bottom: 20px;
 }
+/* глава 152 */
+.glava152_1 div {
+	width: 100px;
+	height: 100px;
+	border: 1px solid red;
+    display: inline-block;
+}
