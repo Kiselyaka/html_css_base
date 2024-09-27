@@ -63,3 +63,15 @@
 .glava159_2 .child {
 	border: 1px solid green;
 }
+/* глава 160 */
+.glava160_1 .parent {
+	padding: 10px 0;
+	border: 1px solid red;
+    text-align: center;
+}
+.glava160_1 .child {
+	padding: 10px;
+	border: 1px solid green;
+    display: inline-block;
+    margin: 5px;
+}
