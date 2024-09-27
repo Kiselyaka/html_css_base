@@ -42,3 +42,9 @@
     border: 1px solid green;
     margin: 10px auto;
 }
+/* глава 158 */
+.glava158_1 .parent {
+	padding: 10px 0;
+	border: 1px solid red;
+    text-align: center;
+}
