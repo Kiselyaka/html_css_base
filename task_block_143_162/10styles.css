@@ -19,3 +19,26 @@
 	border: 1px solid red;
     display: inline-block;
 }
+/* глава 153 */
+.glava153_1 #parent {
+    border: 1px solid red;
+    width: 600px;
+}
+.glava153_1 #elem1 {
+    height: 100px;
+    width: 100px;
+    border: 1px solid green;
+    margin: 10px auto;
+}
+.glava153_1 #elem2 {
+    height: 100px;
+    width: 200px;
+    border: 1px solid green;
+    margin: 10px auto;
+}
+.glava153_1 #elem3 {
+    height: 100px;
+    width: 300px;
+    border: 1px solid green;
+    margin: 10px auto;
+}
