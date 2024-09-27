@@ -1,0 +1,14 @@
+/* глава 147 */
+.glava147_1 p{
+    display: inline;
+	width: 200px;
+	height: 200px;
+	border: 3px solid red;
+}
+.glava147_2 a{
+    display: block;
+	width: 200px;
+	height: 200px;
+	border: 3px solid red;
+	margin-bottom: 20px;
+}
