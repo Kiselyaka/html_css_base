@@ -52,3 +52,28 @@
 	height: 50px;
 	border: 1px solid green;
 }
+/* глава 168 */
+.glava168 .parent	{
+	display: inline-flex;
+	border: 1px solid red;
+}
+.glava168 .child {
+	margin: 10px;
+	width: 120px;
+	height: 50px;
+	border: 1px solid green;
+}
+/* глава 170 */
+.glava170 .parent {
+    display: flex;
+    justify-content: center;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.glava170 .child {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
