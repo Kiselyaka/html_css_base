@@ -1,0 +1,99 @@
+/* глава 174 */
+.glava174_1 #elem1 {
+    border: 1px solid red;
+    left: 80px;
+    top: 80px;
+}
+.glava174_1 #elem1,.glava174_1 #elem2,.glava174_1 #elem3 {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+}
+.glava174_1 #elem2 {
+    border: 1px solid blue;
+    left: 160px;
+    top: 160px;
+}
+.glava174_1 #elem3 {
+    border: 1px solid green;
+    left: 240px;
+    top: 240px;
+}
+
+
+.glava174_2{
+    margin-top: 250px;
+}
+.glava174_2 #elem1 {
+    border: 1px solid red;
+    left: 30px;
+}
+.glava174_2 #elem2 {
+    border: 1px solid blue;
+    left: 100px;
+}
+.glava174_2 #elem3 {
+    border: 1px solid green;
+    left: 170px;
+}
+.glava174_2 #elem1,.glava174_2 #elem2,.glava174_2 #elem3 {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 400px;
+}
+
+
+.glava174_3{
+    margin-top: 170px;
+}
+.glava174_3 #elem1 {
+    border: 1px solid red;
+    left: 30px;
+    top: 600px;
+}
+.glava174_3 #elem2 {
+    border: 1px solid blue;
+    left: 60px;
+    top: 630px;
+}
+.glava174_3 #elem3 {
+    border: 1px solid green;
+    left: 90px;
+    top: 660px;
+}
+.glava174_3 #elem1,.glava174_3 #elem2,.glava174_3 #elem3 {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+}
+
+
+.glava174_4{
+    margin-top: 175px;
+    margin-bottom: 200px;
+}
+.glava174_4 #elem1 {
+    border: 1px solid red;
+    left: 30px;
+    top: 800px;
+    background-color: red;
+}
+.glava174_4 #elem2 {
+    border: 1px solid blue;
+    left: 60px;
+    top: 830px;
+    background-color: blue;
+}
+.glava174_4 #elem3 {
+    border: 1px solid green;
+    left: 90px;
+    top: 860px;
+    background-color: green;
+}
+.glava174_4 #elem1,.glava174_4 #elem2,.glava174_4    #elem3 {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+}
+/* глава 175 */
