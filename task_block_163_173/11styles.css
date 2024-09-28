@@ -105,3 +105,17 @@
     height: 60px;
     border: 1px solid green;
 }
+/* глава 173 */
+.glava173 .parent {
+    display: flex;
+    justify-content: space-evenly;
+    width: 900px;
+    height: 200px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.glava173 .child {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
