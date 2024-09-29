@@ -285,3 +285,26 @@
     border-radius: 0 0 100px 100px;
     margin-top: 125px;
 }
+.glava180_1 #parent {
+    position: relative;
+    width: 300px;
+    height: 200px;
+    margin: 0 auto;
+    border: 1px solid green;
+}
+.glava180_1 #elem1{
+    position: absolute;
+    left: -50px;
+    top: 0;
+    width: 30px;
+    height: 30px;
+    border: 1px solid red;
+}
+.glava180_1 #elem2{
+    position: absolute;
+    right: -50px;
+    top: 0;
+    width: 30px;
+    height: 30px;
+    border: 1px solid red;
+}
