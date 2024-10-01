@@ -29,7 +29,7 @@
     text-align: justify;
 }
 
-
+/* глава200 */
 .glava200 .parent {
     width: 600px;
     padding: 20px;
@@ -45,4 +45,57 @@
     margin-left: 20px;
     margin-bottom: 10px;
     border: 1px solid green;
+}
+
+/* глава 201 */
+.glava201 .parent {
+    width: 800px;
+    padding: 20px;
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: justify;
+}
+.glava201 .child {
+    float: right;
+    width: 130px;
+    height: 70px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+    border: 1px solid green;
+}
+
+.glava202_1 .child {
+    float: left;
+    width: 100px;
+    height: 50px;
+    margin: 0 10px;
+    text-align: center;
+    border: 1px solid green;
+}
+.glava202_1 .parent {
+    padding: 20px;
+    border: 1px solid black;
+    width: 1000px;
+}
+.glava202_1 .clearfix {
+    clear: both;
+}
+
+.glava202_2 .child {
+    float: right;
+    width: 100px;
+    height: 50px;
+    margin: 0 10px;
+    text-align: center;
+    border: 1px solid green;
+}
+.glava202_2 .parent {
+    padding: 20px;
+    border: 1px solid black;
+    width: 1000px;
+}
+.glava202_2 .clearfix {
+    clear: both;
 }
