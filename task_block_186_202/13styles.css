@@ -1,0 +1,48 @@
+.glava186 {
+	text-align: justify;
+    width: 900px;
+}
+.glava186 #image1 {
+	float: left;
+}
+.glava186 #image2 {
+    float: right;
+}
+/* глава 191 */
+.left {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+.right {
+    float: right;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.glava191 {
+    width: 600px;
+    padding: 20px;
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: justify;
+}
+
+
+.glava200 .parent {
+    width: 600px;
+    padding: 20px;
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: justify;
+}
+.glava200 .child {
+    float: right;
+    width: 100px;
+    height: 70px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    border: 1px solid green;
+}
