@@ -53,4 +53,79 @@
     height: 60px;
     border: 1px solid green;
 }
-/* глава  */
+/* глава 209 */
+.glava208_1 .parent {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: flex-end;
+    align-items: flex-end;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.glava208_1 .child {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+.glava208_2 .parent {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.glava208_2 .child {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+.glava208_3 .parent {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-start;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.glava208_3 .child {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+.glava208_4 .parent {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.glava208_4 .child {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+.glava208_5 .parent {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: flex-end;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.glava208_5 .child {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
