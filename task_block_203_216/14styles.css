@@ -242,3 +242,97 @@
     border: 1px solid green;
 }
 
+.glava210_1 .parent {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.glava210_1 .child {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+.glava210_2 .parent {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.glava210_2 .child {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+.glava210_3 .parent {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.glava210_3 .child {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+.glava210_4 .parent {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.glava210_4 .child {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+.glava210_5 .parent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.glava210_5 .child {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+.glava210_6 .parent {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.glava210_6 .child {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
