@@ -241,7 +241,7 @@
     height: 60px;
     border: 1px solid green;
 }
-
+/* глава 210 */
 .glava210_1 .parent {
     display: flex;
     flex-direction: row;
@@ -334,5 +334,50 @@
 .glava210_6 .child {
     width: 120px;
     height: 60px;
+    border: 1px solid green;
+}
+/* глава 213 */
+.glava213_1 .parent {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.glava213_1 .child {
+    width: 120px;
+    border: 1px solid green;
+}
+
+.glava213_2 .parent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: stretch;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.glava213_2 .child {
+    height: 40px;
+    border: 1px solid green;
+}
+
+.glava213_3 .parent {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: stretch;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}   
+.glava213_3 .child {
+    height: 40px;
     border: 1px solid green;
 }
