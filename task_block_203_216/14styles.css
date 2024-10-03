@@ -53,7 +53,7 @@
     height: 60px;
     border: 1px solid green;
 }
-/* глава 209 */
+/* глава 208 */
 .glava208_1 .parent {
     display: flex;
     flex-direction: column-reverse;
@@ -129,3 +129,116 @@
     height: 60px;
     border: 1px solid green;
 }
+/* глава 209 */
+.glava209_1 .parent {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: flex-end;
+    align-items: flex-end;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.glava209_1 .child {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+.glava209_2 .parent {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-start;
+    align-items: flex-end;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.glava209_2 .child {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+.glava209_3 .parent {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: flex-end;
+    align-items: flex-start;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.glava209_3 .child {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+.glava209_4 .parent {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: flex-start;
+    align-items: flex-end;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.glava209_4 .child {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+.glava209_5 .parent {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-end;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.glava209_5 .child {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+.glava209_6 .parent {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.glava209_6 .child {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+.glava209_7 .parent {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-end;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.glava209_7 .child {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
