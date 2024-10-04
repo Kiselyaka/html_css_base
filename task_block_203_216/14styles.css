@@ -381,7 +381,7 @@
     height: 40px;
     border: 1px solid green;
 }
-
+/* глава 214 */
 .glava214_1 .parent {
     display: flex;
     flex-direction: row;
@@ -524,4 +524,57 @@
     width: 120px;
     height: 60px;
     border: 1px solid green;
+}
+/* глава 215 */
+.glava215_1 .parent {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.glava215_1 .child {
+    width: 100px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+.glava215_2 .parent {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.glava215_2 .child {
+    width: 100px;
+    border: 1px solid green;
+}
+.glava215_2 .elem {
+    align-self: center;
+}
+
+.glava215_3 .parent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.glava215_3 .child {
+    width: 100px;
+    height: 60px;
+    border: 1px solid green;
+}
+.glava215_3 .elem {
+    align-self: center;
 }
