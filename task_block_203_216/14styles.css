@@ -381,3 +381,147 @@
     height: 40px;
     border: 1px solid green;
 }
+
+.glava214_1 .parent {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: flex-end;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.glava214_1 .child {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+.glava214_2 .parent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.glava214_2 .child {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+.glava214_3 .parent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.glava214_3 .child {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+.glava214_4 .parent {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: flex-end;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.glava214_4 .child {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+.glava214_5 .parent {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: flex-start;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.glava214_5 .child {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+.glava214_6 .parent {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.glava214_6 .child {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+.glava214_7 .parent {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.glava214_7 .child {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+.glava214_8 .parent {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-between;
+    align-items: flex-end;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.glava214_8 .child {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+.glava214_9 .parent {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-end;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.glava214_9 .child {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
