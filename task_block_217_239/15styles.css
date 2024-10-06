@@ -1,0 +1,23 @@
+/* глава 220 */
+.glava220_1 .parent {
+    display: grid;
+    border: 3px solid rebeccapurple 
+}
+.glava220_1 .child ,.glava220_2 .child, .glava220_3 .child ,.glava220_4 .child{
+    border: 1px dashed yellowgreen ;
+}
+.glava220_2 .parent {
+    display: grid;
+    grid-template-columns: repeat(2, 200px);
+    border: 3px solid rebeccapurple
+}
+.glava220_3 .parent {
+    display: grid;
+    grid-template-columns: repeat(3, 150px);
+    border: 3px solid rebeccapurple
+}
+.glava220_4 .parent {
+    display: grid;
+    grid-template-columns: 100px 150px 200px;
+    border: 3px solid rebeccapurple
+}
