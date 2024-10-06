@@ -21,3 +21,19 @@
     grid-template-columns: 100px 150px 200px;
     border: 3px solid rebeccapurple
 }
+/* глава 221 */
+.glava221_1 .parent {
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+}
+.glava221_1 .child ,.glava221_2 .child, .glava221_3 .child {
+    border: 1px dashed yellowgreen ;
+}
+.glava221_2 .parent {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr; 
+}
+.glava221_3 .parent {
+    display: grid;
+    grid-template-columns: 1fr 1fr 2fr;  
+}
