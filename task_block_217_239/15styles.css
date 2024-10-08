@@ -305,3 +305,53 @@
     padding: 10px;
     border: 1px solid #696989;
 }
+/*  */
+.glava232_1 .parent {
+  display: grid;
+  padding: 10px;
+  border: 2px solid #696989;
+  height: 300px;
+  width: 300px;
+}
+.glava232_1 .parent > div {
+  padding: 10px;
+  border: 1px solid #696989;
+}
+.glava232_1 .child1,.glava232_1 .child3 {
+  grid-row: 1 / 2;
+}
+.glava232_1 .child2{
+  grid-row: 2 / 3;
+}
+.glava232_1 .child4{
+  grid-row: 2 / 4;
+}
+.glava232_1 .child5{
+  grid-row: 3 / 4;
+}
+.glava232_2 .parent {
+  display: grid;
+  padding: 10px;
+  border: 2px solid #696989;
+  height: 300px;
+  width: 300px;
+}
+.glava232_2 .parent > div {
+  padding: 10px;
+  border: 1px solid #696989;
+}
+.glava232_2 .child1 {
+  grid-row: 1 / 5;
+}
+.glava232_2 .child2{
+  grid-row: 1 / 2;
+}
+.glava232_2 .child3{
+  grid-row: 2 / 3;
+}
+.glava232_2 .child4{
+  grid-row: 3 / 4;
+}
+.glava232_2 .child5{
+  grid-row: 4 / 5;
+}
