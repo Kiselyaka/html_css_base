@@ -48,3 +48,14 @@
 	padding: 10px;
 	border: 1px solid #696989;
 }
+.glava222_2 .parent {
+display: grid;
+	grid-template-columns: 1fr 1.5fr 2.5fr;
+	border: 2px solid #696989;
+	padding: 10px;
+	width: 600px;
+}
+.glava222_2 .child {
+	padding: 10px;
+	border: 1px solid #696989;
+}
