@@ -78,14 +78,71 @@
   border: 1px solid #696989;
 }
 .glava223_2 .parent {
+  display: grid;
+  grid-template-columns: 100px 1fr 1.5fr 100px;
+  border: 2px solid #696989;
+  padding: 10px;
+  width: 600px;
+}
+.glava223_2 .child {
+  padding: 10px;
+  border: 1px solid #696989;
+}
+/* глава 224 */
+.glava224_1 .parent {
+  display: grid;
+  grid-template-columns: 20% 1fr 1fr;
+  border: 2px solid #696989;
+  padding: 10px;
+  width: 600px;
+}
+.glava224_1 .child {
+  padding: 10px;
+  border: 1px solid #696989;
+}
+.glava224_2 .parent {
+  display: grid;
+  grid-template-columns: 100px 20% 1fr 2fr 3fr;
+  border: 2px solid #696989;
+  padding: 10px;
+  width: 600px;
+}
+.glava224_2 .child {
+  padding: 10px;
+  border: 1px solid #696989;
+}
+/* глава 225 */
+.glava225_1 .parent {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  border: 2px solid #696989;
+  padding: 10px;
+  width: 600px;
+}
+.glava225_1 .child {
+  padding: 10px;
+  border: 1px solid #696989;
+}
+.glava225_2 .parent {
     display: grid;
-    grid-template-columns: 100px 1fr 1.5fr 100px;
+    grid-template-columns: repeat(4, 100px) repeat(3, 1fr);
     border: 2px solid #696989;
     padding: 10px;
     width: 600px;
   }
-  .glava223_2 .child {
+.glava225_2 .child {
     padding: 10px;
     border: 1px solid #696989;
+}
+.glava225_3 .parent {
+    display: grid;
+    grid-template-columns: repeat(2, 100px) repeat(3, 200px) 1fr repeat(2, 10%);
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 1200px;
   }
-  
+.glava225_3 .child {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+
