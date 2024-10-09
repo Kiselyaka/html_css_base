@@ -49,3 +49,108 @@
     text-decoration: none;
     color: white;
 }
+/* глава 241_1 */
+.glava241_1 #wrapper1 {
+    width: 700px;
+    margin: 50px auto;
+    text-align: justify;
+    border: 1px solid black;
+}
+.glava241_1 #menu {
+    display: flex;
+    margin-bottom: 20px;
+    background-color: #484848;
+}
+.glava241_1 #menu a {
+    padding: 10px 25px;
+    text-decoration: none;
+    color: #fff;
+    font: bold 14px Arial;
+}
+.glava241_1 #menu a:hover,.glava241_1 #menu a.active {
+    color: #484848;
+    background-color: #fff;
+}
+.glava241_1 #content h1 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+.glava241_1 #content p {
+    padding: 0 10px;
+    margin-bottom: 5px;
+    font: 17px / 20px "Times New Roman";
+}
+.glava241_1 #content a {
+    color: blue;
+    text-decoration: none;
+    font-weight: bold;
+}
+.glava241_1 #content a:hover {
+    color: green;
+    text-decoration: underline;
+}
+/* глава 241_2 */
+.glava241_2 #wrapper2 {
+    width: 900px;
+    margin: 0 auto 50px;
+}
+.glava241_2 #containter {
+    margin-bottom: 20px;
+    border-left: 1px ridge #FC9D00;
+    border-right: 1px ridge #FC9D00;
+    border-bottom: 1px ridge #FC9D00;
+}
+.glava241_2 #menu {
+    display: flex;
+    background-color: #FC9D00;
+    margin-bottom: 20px;
+}
+.glava241_2 #menu a:hover,.glava241_2 #menu a.active {
+    color: #FC9D00;
+    background-color: #fff;
+}
+.glava241_2 #menu a {
+    padding: 15px 25px;
+    text-decoration: none;
+    color: #fff;
+    font: bold 15px Arial;
+}
+.glava241_2 #content h1 {
+    font: 30px "Times New Roman";
+}
+.glava241_2 #content h2 {
+    font: 25px "Times New Roman";
+}
+.glava241_2 #content h1, #content h2 {
+    text-align: center;
+    margin-bottom: 10px;
+    color: #9B6100;
+}
+.glava241_2 #content p {
+    margin-bottom: 5px;
+    padding: 0 10px;
+    font: 17px / 33px "Times New Roman";
+    text-align: justify;
+    text-indent: 50px;
+    color: #CC8000;
+}
+.glava241_2 #content a {
+    color: #CC8000;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.glava241_2 #content a:hover {
+    color: black;
+    text-decoration: none;
+}
+.glava241_2 #footer {
+    display: flex;
+    justify-content: center;
+    font: 13px Arial;
+}
+.glava241_2 #footer a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #9B6100;
+    font: bold 13px Arial;
+}
