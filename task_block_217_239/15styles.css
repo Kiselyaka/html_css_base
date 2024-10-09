@@ -542,3 +542,40 @@
 	padding: 10px;
 	border: 1px solid #696989;
 }
+/* глава 239 */
+.glava239_1 .parent {
+  width: 600px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 10px;
+  border: 2px solid #696989;
+}
+.glava239_1 .parent > div {
+  height: 100px;
+  padding: 10px;
+  border: 1px solid #696989;
+}
+.glava239_2 .parent {
+  width: 600px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr) 2fr 3fr;
+  grid-gap: 10px;
+  border: 2px solid #696989;
+}
+.glava239_2 .parent > div {
+  height: 100px;
+  padding: 10px;
+  border: 1px solid #696989;
+}
+.glava239_3 .parent {
+  width: 600px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 10px;
+  border: 2px solid #696989;
+}
+.glava239_3 .parent > div {
+  height: 100px;
+  padding: 10px;
+  border: 1px solid #696989;
+}
