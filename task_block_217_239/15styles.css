@@ -488,3 +488,17 @@
   padding: 10px;
   border: 1px solid #696989;
 }
+/* глава 236 */
+.glava236_1 .parent {
+	display: grid;
+	column-gap: 20%;
+	grid-template: 1fr 1fr 1fr / 1fr 1fr 1fr;
+	padding: 10px;
+	border: 2px solid #696989;
+	width: 600px;
+	height: 200px;
+}
+.glava236_1 .parent > div {
+	padding: 10px;
+	border: 1px solid #696989;
+}
