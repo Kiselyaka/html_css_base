@@ -1,0 +1,51 @@
+.glava240_1 #menu{
+    display: flex;
+}
+.glava240_1 #menu a:hover,.glava240_1 #menu a.active {
+    color: #16A177;
+    background-color: white;
+}
+.glava240_1 #menu a {
+    box-sizing: border-box;
+    margin-right: 10px;
+    padding: 10px 25px;
+    font: 16px Arial;
+    text-decoration: none;
+    color: white;
+    border: 1px solid #16A177;
+    background-color: #16A177;
+}
+
+.glava240_2 #menu {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+.glava240_2 #menu a:hover,.glava240_2 #menu a.active {
+    color: #16A177;
+    background-color: white;
+}
+.glava240_2 #menu a {
+    margin-bottom: 10px;
+    padding: 15px 25px;
+    font: 16px Arial;
+    text-decoration: none;
+    color: white;
+    border: 1px solid #16A177;
+    background-color: #16A177;
+}
+
+.glava240_3 #menu {
+    display: flex;
+    background-color: #16A177;
+    width: 700px;
+}
+.glava240_3 #menu a:hover,.glava240_3 #menu a.active {
+    background-color: #16785C;
+}
+.glava240_3 #menu a {
+    padding: 15px 40px;
+    font: 16px Arial;
+    text-decoration: none;
+    color: white;
+}
